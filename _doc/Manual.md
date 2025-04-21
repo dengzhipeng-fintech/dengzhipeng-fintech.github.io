@@ -53,13 +53,13 @@ You can easily customize the blog by modifying `_config.yml`:
 
 ```yml
 # Site settings
-title: Hux Blog             # title of your website
-SEOTitle: Hux Blog          # check out docs for more detail
+title: ZiphDeng Blog             # title of your website
+SEOTitle: ZiphDeng Blog          # check out docs for more detail
 description: "Cool Blog"    # ...
 
 # SNS settings      
-github_username: huxpro     # modify this account to yours
-weibo_username: huxpro      # the footer woule be auto-updated.
+github_username: ZiphDeng     # modify this account to yours
+weibo_username: ZiphDeng      # the footer woule be auto-updated.
 
 # Build settings
 paginate: 10                # nums of posts in one page
@@ -79,10 +79,10 @@ For instance, [Hello 2015])(https://huangxuan.me/2015/01/29/hello-2015/) has the
 ```yml
 ---
 layout:     post
-title:      "Hello 2015"
+title:      "Hello 2025"
 subtitle:   " \"Hello World, Hello Blog\""
-date:       2015-01-29 12:00:00
-author:     "Hux"
+date:       2025-04-21 12:00:00
+author:     "ZiphDeng"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
 tags:
