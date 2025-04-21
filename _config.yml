@@ -1,11 +1,11 @@
 # Site settings
-title: ZiphDeng Blog
-SEOTitle: 邓志鹏的博客 | Hux Blog
+title: dengzhipeng Blog
+SEOTitle: 邓志鹏的博客 | dengzhipeng Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
+email: dengzhipeng2025@gmail.com
 description: "这里是 @邓志鹏 的个人博客，与你一起发现更大的世界 | 要做一个 fintech 的程序员"
-keyword: "邓志鹏, Ziph, 博客, 个人网站, 互联网, Web, python"
-url: "https://ZiphDeng.me" # your host, for absolute URL
+keyword: "邓志鹏, dengzhipeng, fintech, 博客, 个人网站, 互联网, Web, python"
+url: "https://dengzhipeng.me" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -13,11 +13,11 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: ZiphDeng
-zhihu_username: ZiphDeng
-github_username: ZiphDeng
-twitter_username: ZiphDeng
-#facebook_username:  ZiphDeng
+weibo_username: dengzhipeng
+zhihu_username: dengzhipeng
+github_username: dengzhipeng
+twitter_username: dengzhipeng
+#facebook_username:  dengzhipeng
 #linkedin_username:  firstname-lastname-idxxxx
 
 # Build settings
@@ -59,7 +59,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-disqus_username: ZiphDeng
+disqus_username: dengzhipeng
 
 # Netease settings
 netease_comment: false
